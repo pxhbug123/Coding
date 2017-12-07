@@ -1,0 +1,18 @@
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\bin\Debug\JCBSCH.exe.config
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\obj\Debug\JCBSCH.csprojResolveAssemblyReference.cache
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\obj\Debug\JCBSCH.Form1.resources
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\obj\Debug\JCBSCH.Properties.Resources.resources
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\obj\Debug\JCBSCH.csproj.GenerateResource.Cache
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\bin\Debug\JCBSCH.exe
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\bin\Debug\JCBSCH.pdb
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\obj\Debug\JCBSCH.exe
+c:\users\pxhbug\documents\visual studio 2013\Projects\JCBSCH\JCBSCH\obj\Debug\JCBSCH.pdb
+D:\代码\JCBSCH\JCBSCH\bin\Debug\JCBSCH.exe.config
+D:\代码\JCBSCH\JCBSCH\obj\Debug\JCBSCH.exe
+D:\代码\JCBSCH\JCBSCH\obj\Debug\JCBSCH.pdb
+D:\代码\JCBSCH\JCBSCH\bin\Debug\JCBSCH.exe
+D:\代码\JCBSCH\JCBSCH\bin\Debug\JCBSCH.pdb
+D:\代码\JCBSCH\JCBSCH\obj\Debug\JCBSCH.csprojResolveAssemblyReference.cache
+D:\代码\JCBSCH\JCBSCH\obj\Debug\JCBSCH.Form1.resources
+D:\代码\JCBSCH\JCBSCH\obj\Debug\JCBSCH.Properties.Resources.resources
+D:\代码\JCBSCH\JCBSCH\obj\Debug\JCBSCH.csproj.GenerateResource.Cache
